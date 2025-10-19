@@ -24,6 +24,16 @@
 | 🟩 **High** | Japan, China, Taiwan | Strong domestic demand, high mechanization, low GII, stable incomes. |
 
 ---
+<p align="center">
+  <img src="Preview/Tea_dashboard_Home-page.png" width="45%">
+  <img src="Preview/Tea_dashboard_Overview-p1.png" width="45%">
+ <img src="Preview/Tea_dashboard_Trade-dynamics_p3.png" width="45%">
+ <img src="Preview/Tea_dashboard_equity-resilience_p5.png" width="45%">
+ <img src="Preview/Tea_dashboard_resilience-equation_p6.png" width="45%">
+</p>
+
+---
+
 
 ## 🌐 Interactive Dashboard
 🔗 [Navigate and drill-down on Looker Studio]([https://lookerstudio.google.com/u/0/reporting/ec25178b-f374-412f-8016-e46661983be5/page/ia9WF](https://lookerstudio.google.com/reporting/ec25178b-f374-412f-8016-e46661983be5)
