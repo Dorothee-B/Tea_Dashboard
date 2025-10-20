@@ -27,9 +27,11 @@
 <p align="center">
   <img src="Preview/Tea_dashboard_Home-page.png" width="45%">
   <img src="Preview/Tea_dashboard_Overview-p1.png" width="45%">
- <img src="Preview/Tea_dashboard_Trade-dynamics_p3.png" width="45%">
- <img src="Preview/Tea_dashboard_equity-resilience_p5.png" width="45%">
- <img src="Preview/Tea_dashboard_resilience-equation_p6.png" width="45%">
+  <img src="Preview/Tea_dashboard_Production-History-p2.png" width="45%">
+  <img src="Preview/Tea_dashboard_Trade-dynamics_p3.png" width="45%">
+  <img src="Preview/Tea_dashboard_equity-resilience_p5.png" width="45%">
+  <img src="Preview/Tea_dashboard_resilience-equation_p6.png" width="45%">
+  <img src="Preview/Tea_dashboard_looker-tips.png" width="45%">
 </p>
 
 ---
