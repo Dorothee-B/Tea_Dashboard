@@ -29,8 +29,10 @@
   <img src="Preview/Tea_dashboard_Overview-p1.png" width="45%">
   <img src="Preview/Tea_dashboard_Production-History_p2.png" width="45%">
   <img src="Preview/Tea_dashboard_Trade-dynamics_p3.png" width="45%">
-  <img src="Preview/Tea_dashboard_equity-resilience_p5.png" width="45%">
-  <img src="Preview/Tea_dashboard_resilience-equation_p6.png" width="45%">
+  <img src="Preview/Tea_dashboard_Value-capture_p4.png" width="45%">
+  <img src="Preview/Tea_dashboard_Farmer-vulnerability_p5.png" width="45%">
+  <img src="Preview/Tea_dashboard_equity-resilience_p6.png" width="45%">
+  <img src="Preview/Tea_dashboard_Resilience-equation_P7.png" width="45%">
   <img src="Preview/Tea_dashboard_looker-tips.png" width="45%">
 </p>
 
